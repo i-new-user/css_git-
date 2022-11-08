@@ -9,6 +9,12 @@ let day = date.getDate();
 let hour = date.getHours();
 let minute = date.getMinutes();
 
+
 data.innerHTML = year + ' ' +  month + ' ' + day + ' // ' + hour + ':' + minute;
+
+
+
+
+
 
 
